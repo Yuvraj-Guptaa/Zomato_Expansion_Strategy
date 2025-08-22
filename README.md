@@ -22,6 +22,7 @@ The analysis was conducted using a dataset of Zomato restaurant information, whi
 5. **Strategic Recommendations:** Based on the analysis, a set of strategic recommendations was developed to guide Zomato's expansion strategy.
 
 ## **📈 Dashboard Overview**
+<img width="1649" height="757" alt="image" src="https://github.com/user-attachments/assets/c3e0446d-8371-477a-a83f-818d5e02b666" />
 
 A dashboard was created to provide an interactive and visual summary of the key findings. It includes slicers for filtering by year and country, allowing for a dynamic exploration of metrics such as average cost, ratings, online delivery penetration, and top cuisines.
 
