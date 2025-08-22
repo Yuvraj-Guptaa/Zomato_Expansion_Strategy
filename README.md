@@ -24,7 +24,7 @@ The analysis was conducted using a dataset of Zomato restaurant information, whi
 ## **📈 Dashboard Overview**
 <img width="478" height="421" alt="image" src="https://github.com/user-attachments/assets/eddefdee-e9e5-44bf-9628-1740fc312d18" />
 
-A dashboard was created to provide an interactive and visual summary of the key findings. It includes slicers for filtering by year and country, allowing for a dynamic exploration of metrics such as average cost, ratings, online delivery penetration, and top cuisines.
+A dashboard was created to provide a visual summary of the key findings, featuring charts on country ratings, costs, and top cuisines. To allow for a more dynamic analysis, the dashboard includes interactive slicers to filter the data by Country, Price Range, and Year.
 
 ## **🔑 Key Findings**
 
