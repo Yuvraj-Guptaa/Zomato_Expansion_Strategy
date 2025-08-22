@@ -27,6 +27,8 @@ Strategic Recommendations: Based on the analysis, a set of strategic recommendat
 
 📈 Dashboard Overview
 A dashboard was created to provide an interactive and visual summary of the key findings. It includes slicers for filtering by year and country, allowing for a dynamic exploration of metrics such as average cost, ratings, online delivery penetration, and top cuisines.
+<img width="1649" height="757" alt="image" src="https://github.com/user-attachments/assets/c70683cc-1855-4748-acfc-60b3dd3efac6" />
+
 
 🔑 Key Findings
 High-Potential Markets: The analysis identified Canada, Singapore, Sri Lanka, and Australia as promising markets for expansion due to their relatively low restaurant density and potential for growth.
